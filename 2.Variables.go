@@ -1,4 +1,5 @@
 package main
+
 import "fmt"
 
 func main() {
@@ -14,4 +15,5 @@ func main() {
 
 	quantity = 19
 	fmt.Println("The quantity of products is:", quantity)
+
 }
